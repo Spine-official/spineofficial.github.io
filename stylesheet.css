@@ -439,6 +439,7 @@ td {
 	margin: 0 auto;
 	overflow-x: hidden;
 }
+
 .box-iq {
 	display: flex;
 	flex-wrap: wrap;
@@ -1312,6 +1313,10 @@ img {
 .wrapper {
 	
 	max-width: 90%;
+	overflow: hidden;
+	overflow-x: hidden;
+	
+
 	
 }
 
