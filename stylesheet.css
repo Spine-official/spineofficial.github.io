@@ -241,7 +241,7 @@ td {
 	border-bottom-right-radius: 80%;
 	border-top-left-radius: 100px;
 	border-top-right-radius: 100px;
-	transform: translate(0px, -17px);
+	transform: translate3d(0px, -17px, 200px);
 	background-color: #546c8c;
 	z-index: 2;
 	box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.1);
@@ -252,6 +252,7 @@ td {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	transform: translateZ(200px);
 	position: absolute;
 	z-index: 2;
 }
