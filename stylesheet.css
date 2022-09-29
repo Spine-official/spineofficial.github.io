@@ -318,7 +318,6 @@ td {
 	z-index: 2;
 	position: absolute;
 	bottom: -20px;
-	font-family: "Roboto Mono", monospace;
 	animation: text 4s ease infinite;
 	width: 100px;
 	text-align: center;
@@ -1302,6 +1301,7 @@ img {
 
 .box-iq .content, .box label {
 	order: initial;
+	text-align: center;
 }
 .box-iq label {
 	width: 100%;
