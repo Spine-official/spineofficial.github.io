@@ -437,7 +437,7 @@ td {
 	line-height: 1.5;
 	max-width: 100%;
 	margin: 0 auto;
-	overflow: hidden;
+	overflow-x: hidden;
 }
 .box-iq {
 	display: flex;
