@@ -1613,6 +1613,10 @@ display: block;
 	
 }
 
+.box-iq label {
+	width: 90%;
+}
+
 
 
 .box .text
