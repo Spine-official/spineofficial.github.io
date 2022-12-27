@@ -1622,6 +1622,7 @@ display: block;
 	display: block;
 	padding: 5px 10px;
 	margin-right: 4px;
+	margin: auto;
 	cursor: pointer;
 }
 
