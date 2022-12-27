@@ -442,7 +442,7 @@ td {
 	overflow: auto;
 }
 .box-iq {
-	display: flex;
+	display: inline-block;
 	flex-wrap: wrap;
 }
 .box-iq label {
@@ -1400,7 +1400,7 @@ display: block;
   
   
   .box-iq {
-	  display: inline-block;
+	  display: flex;
 	  flex-wrap: wrap;
 	  flex-direction: column;
   }
