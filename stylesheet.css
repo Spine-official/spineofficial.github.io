@@ -11,6 +11,7 @@
     scrollbar-track-color: #6649b8; /* Firefox 63 compatibility */
     scrollbar-color: #6649b8 #1e1e24;
     scrollbar-width: thin;
+	overflow-x: hidden;
 	
 };
 
