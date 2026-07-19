@@ -1168,7 +1168,27 @@ display: block;
 	  
 	  
   }
-  
+
+
+.name-card-iq-5 {
+	width: 100%;
+	height:auto;
+	background-color: rgba(61, 61, 61, 0.3);
+	/*background-color: rgba(255, 255, 255, 0.7);*/
+	overflow: hidden;
+	padding-left: 10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 200px;
+	margin-top: 1rem;
+	align-items: center;
+	text-align: center;
+
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
   
   
   
