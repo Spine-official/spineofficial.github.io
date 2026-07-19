@@ -1208,7 +1208,7 @@ display: block;
 	
 
 .video-container {
-    width: min(100%, 560px);   /* never larger than 560px */
+    width: min(100%, 400px);   /* never larger than 560px */
     aspect-ratio: 16 / 9;
 
     position: relative;
@@ -2080,7 +2080,7 @@ display: block;
 	
 	
 	.video-container {
-    width: min(100%, 560px);   /* never larger than 560px */
+    width: min(100%, 500px);   /* never larger than 560px */
     aspect-ratio: 16 / 9;
 
     position: relative;
