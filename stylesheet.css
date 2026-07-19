@@ -1171,10 +1171,12 @@ display: block;
 
 
 .video-container {
-    position: relative;
-    width: 100%;
-    max-width: 560px;
+    width: min(100%, 560px);   /* never larger than 560px */
     aspect-ratio: 16 / 9;
+
+    position: relative;
+
+    margin: 1.5rem auto 0;     /* centers the video */
 }
 
 .video-container iframe {
