@@ -1185,13 +1185,13 @@ display: block;
     align-items: center;
 	*/
 
-	width: 100%;
+	width: 95%;
 	height:auto;
 	background-color: rgba(61, 61, 61, 0.3);
 	/*background-color: rgba(255, 255, 255, 0.7);*/
 	overflow: hidden;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	margin-bottom: 200px;
@@ -1199,6 +1199,7 @@ display: block;
 	padding: auto;
 	align-items: center;
 	text-align: center;
+	box-sizing: border-box;
 
 	display: flex;
 	flex-direction: column;
