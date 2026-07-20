@@ -1191,6 +1191,7 @@ display: block;
 	/*background-color: rgba(255, 255, 255, 0.7);*/
 	overflow: hidden;
 	padding-left: 10px;
+	padding-right: 10px;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	margin-bottom: 200px;
@@ -1209,7 +1210,7 @@ display: block;
 	
 
 .video-container {
-    width: min(100%, 200px);   /* never larger than 560px */
+    width: min(100%, 400px);   /* never larger than 560px */
     aspect-ratio: 16 / 9;
 
     position: relative;
