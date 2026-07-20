@@ -1190,10 +1190,10 @@ display: block;
 	background-color: rgba(61, 61, 61, 0.3);
 	/*background-color: rgba(255, 255, 255, 0.7);*/
 	overflow: hidden;
-	padding-left: 30px;
+	/*padding-left: 30px;
 	padding-right: 30px;
 	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-bottom: 30px; */
 	margin-bottom: 200px;
 	margin-top: 1rem;
 	padding: auto;
@@ -1215,6 +1215,7 @@ display: block;
     aspect-ratio: 16 / 9;
 
     position: relative;
+	padding: auto;
 
     margin: 1.5rem auto 0;     /* centers the video */
 }
