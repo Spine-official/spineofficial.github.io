@@ -1199,7 +1199,7 @@ display: block;
 	padding: auto;
 	align-items: center;
 	text-align: center;
-	box-sizing: border-box;
+	/*box-sizing: border-box;*/
 
 	display: flex;
 	flex-direction: column;
