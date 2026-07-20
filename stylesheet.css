@@ -12,7 +12,7 @@
     scrollbar-color: #6649b8 #1e1e24;
     scrollbar-width: thin;
 	
-};
+}
 
 
 * {
@@ -1011,6 +1011,9 @@ display: block;
 	main {
 	  margin: 0;
 	  margin-bottom: 6rem;
+
+    padding: 1rem;
+    box-sizing: border-box;
 	}
   
 	.containercirc{
@@ -1186,6 +1189,7 @@ display: block;
 	*/
 
 	width: 100%;
+	max-width: 100%;
 	height:auto;
 	background-color: rgba(61, 61, 61, 0.3);
 	/*background-color: rgba(255, 255, 255, 0.7);*/
@@ -1194,12 +1198,17 @@ display: block;
 	padding-right: 30px;
 	padding-top: 30px;
 	padding-bottom: 30px; */
-	margin-bottom: 200px;
+	/*margin-bottom: 200px;
 	margin-top: 1rem;
-	padding: auto;
+	padding: auto;*/
 	align-items: center;
 	text-align: center;
-	box-sizing: border-box;
+	/*box-sizing: border-box;*/
+	box-sizing:border-box;
+
+    margin:1rem auto 200px auto;
+
+    padding:30px 20px;
 
 	display: flex;
 	flex-direction: column;
